@@ -1,1 +1,1 @@
-"# App de Prueba de Hipotesis" 
+"App de Prueba de Hipotesis con Streamlit" 
